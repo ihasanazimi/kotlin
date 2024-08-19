@@ -83,6 +83,10 @@ fun main() {
         SealedAge.YOUNG  -> {
             println("YOUNG")
         }
+
+        else -> {
+
+        }
     }
 
 }
