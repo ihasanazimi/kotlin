@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="SampleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-09-07T13:13:33" hostname="AZIMI-LAP" time="0.018">
+<testsuite name="SampleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-09-07T15:26:01" hostname="AZIMI-LAP" time="0.015">
   <properties/>
-  <testcase name="testSum()" classname="SampleTest" time="0.018"/>
+  <testcase name="testPostalCode()" classname="SampleTest" time="0.015"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

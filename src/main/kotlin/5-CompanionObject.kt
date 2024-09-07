@@ -1,5 +1,3 @@
-import com.sun.org.apache.xalan.internal.xsltc.compiler.util.Util.println
-
 /**
  Companion Object :
   in hamoon mani static java ro mide ama vaqan static nist..
