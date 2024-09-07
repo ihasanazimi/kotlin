@@ -1,3 +1,4 @@
+import com.sun.org.apache.xalan.internal.xsltc.compiler.util.Util.println
 
 /**
  Companion Object :
@@ -9,8 +10,7 @@
 
 // sample
 
-class Test {
-
+annotation class Test {
     companion object comTest {
         val myName = "Hsn"
         fun showMyName() = myName
@@ -20,5 +20,5 @@ class Test {
 
 fun main() {
     // dg niyazi nist object ghiri konim..
-    println(Test.showMyName())
+    // Test.showMyName()
 }
