@@ -7,7 +7,7 @@ class SampleTest{
 
     class CalculatorTest{
         @Test
-        fun testSum(){
+        fun `testSum`(){
             val expected = 42
             assertEquals(expected,Calculator().add(40,2))
         }
